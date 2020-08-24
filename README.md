@@ -2,7 +2,7 @@
 
 <h4>JavaScrip | React Native</h4>
 
-O song box é um app de música em streaming e sua principal funcionalidade é a reprodução de faixas de álbuns através do consumo da api pública do Deezer. Com o mesmo aprimorei meus conhecimentos, com relação ao consumo e reprodução de conteúdos multimídia e com animações, no React Native.
+The song box is a streaming music app and its main functionality is the reproduction of album tracks through the consumption of Deezer's public api. With this I improved my knowledge, regarding the consumption and reproduction of multimedia content and animations, in React Native.
 
 ![](gif1.gif) _&nbsp;&nbsp;_ ![](gif3.gif)  _&nbsp;&nbsp;_ ![](gif2.gif)
 
